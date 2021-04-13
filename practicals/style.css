@@ -1,0 +1,17 @@
+.first
+{
+  width: 20%;
+  border-color: blue;
+  border-width: 3px;
+  border-style: dashed;
+  border-radius: 10px;
+  color: blue;
+  font-size: 20px;
+  font-family: 'Montserrat';
+}
+.second
+{
+  padding: 5% 2% 10% 3%;
+  font-weight: bolder;
+  font-family: 'Montserrat';
+}
